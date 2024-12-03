@@ -1,4 +1,4 @@
-Food Menu Site
+#Food Menu Site
 This project is a Food Menu Site built using Django, providing a platform to manage food items with features like user authentication, adding, viewing, and deleting items.
 
 Features
