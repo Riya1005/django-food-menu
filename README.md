@@ -20,3 +20,8 @@ Logout: Users can securely log out of their accounts.
 ### User-Specific Features
 Each item indicates the user who added it.
 Separate user experiences based on login status.
+
+### Future Enhancements
+Adding item categories.
+Search and filter functionality for food items.
+Enhanced UI/UX with CSS frameworks like Bootstrap or Tailwind CSS.
