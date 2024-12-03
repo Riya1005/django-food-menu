@@ -3,7 +3,7 @@ This project is a Food Menu Site built using Django, providing a platform to man
 
 ## Features
 ### Food Items Management
-View Items: Display a list of food items with their images, details, and prices.
+View Items: Display a list of food items with their images, details, and prices.</br>
 Detailed View: Access detailed information about each food item, including its image, name, description, and price.
 Add Items: Authenticated users can add new food items with the following details:
 Item Name
